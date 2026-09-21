@@ -11,9 +11,8 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://boisterous-queijadas-409afa.netlify.app',
-  'https://rexxiez.netlify.app',
   'https://youngtoad.fwh.is',
-  'https://famousduck.lovestoblog.com',
+  'https://bellbill.gt.tc',
 
    // add all your trusted frontends here
 ];
