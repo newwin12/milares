@@ -9,7 +9,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
-  'https://billbel.xo.je',
+ 
   'https://bellbiill.gt.tc',
 
    // add all your trusted frontends here
