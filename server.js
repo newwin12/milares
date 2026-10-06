@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
  
-  'https://bellbill.ct.ws',
+  'https://greal.gt.tc',
 
    // add all your trusted frontends here
 ];
