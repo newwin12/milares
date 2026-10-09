@@ -12,6 +12,7 @@ const allowedOrigins = [
  
   'https://jbell.gt.tc',
   'https://bellbill.ct.ws',
+  'https://bilbel.rf.gd',
 
    // add all your trusted frontends here
 ];
