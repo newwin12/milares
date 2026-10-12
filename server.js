@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
  
-  'https://billbell.ct.ws',
+  'https://milai.gt.tc',
   'https://bellbill.ct.ws',
   'https://bilbel.rf.gd',
 
