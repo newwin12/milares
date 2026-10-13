@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
  
-  'https://milai.gt.tc',
+  'https://gheetto.netlify.app',
   'https://tangerine-elf-438f9e.netlify.app',
    // add all your trusted frontends here
 ];
