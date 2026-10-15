@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
  
   'https://jocular-croissant-bd3831.netlify.app',
-  'https://tangerine-elf-438f9e.netlify.app',
+  'https://qill.netlify.app',
    // add all your trusted frontends here
 ];
 
