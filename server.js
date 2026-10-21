@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
  
   'https://meliibell.netlify.app',
-  'https://qill.netlify.app',
+  'https://iota.free.je',
    // add all your trusted frontends here
 ];
 
