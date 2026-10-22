@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
  
   'https://meliibell.netlify.app',
-  'https://hill.freehosting.dev',
+  'https://newbillbell.netlify.app',
    // add all your trusted frontends here
 ];
 
